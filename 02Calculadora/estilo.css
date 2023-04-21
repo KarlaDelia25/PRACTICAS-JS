@@ -1,0 +1,64 @@
+  *{
+    margin:0px;
+    padding:0px;
+  }
+  body{
+    width: 70%;
+  height: 90%;
+  margin: 6%;
+  padding: 3%;
+  background-color: #dfdddd;
+
+
+  }
+  .sum{
+    width:10%;
+    height:5%;
+    background: linear-gradient (to right, #000000 0%, #000000 50%, #ffffff 50%, #ffffff 100%);
+  background-size: 200% 100%;
+  background-position: 100% 0;
+  transition: background-position 0.1s;
+  -webkit-transition: all 1s;
+  -moz-transition: all 1s;
+  transition: all 1s;
+  color: #000000;
+}
+.res{
+  width:10%;
+  height:5%;
+    background: linear-gradient (to right, #000000 0%, #000000 50%, #ffffff 50%, #ffffff 100%);
+  background-size: 200% 100%;
+  background-position: 100% 0;
+  transition: background-position 0.1s;
+  -webkit-transition: all 1s;
+  -moz-transition: all 1s;
+  transition: all 1s;
+  color: #000000;
+}
+.mul{
+  width:10%;
+  height:5%;
+    background: linear-gradient (to right, #000000 0%, #000000 50%, #ffffff 50%, #ffffff 100%);
+  background-size: 200% 100%;
+  background-position: 100% 0;
+  transition: background-position 0.1s;
+  -webkit-transition: all 1s;
+  -moz-transition: all 1s;
+  transition: all 1s;
+  color: #000000;
+}
+.div{
+  width:10%;
+  height:5%;
+    background: linear-gradient (to right, #000000 0%, #000000 50%, #ffffff 50%, #ffffff 100%);
+  background-size: 200% 100%;
+  background-position: 100% 0;
+  transition: background-position 0.1s;
+  -webkit-transition: all 1s;
+  -moz-transition: all 1s;
+  transition: all 1s;
+  color: #000000;
+}
+
+
+

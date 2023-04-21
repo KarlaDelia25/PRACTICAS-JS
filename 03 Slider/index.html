@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title></title>
+     <link rel="stylesheet" href="estilo.css">
+    
+</head>
+
+<body>
+  <h1>Slider</h1>
+<input type="range" onchange="cambiar()" value ="0" min="0" max="100" id="v">
+<h1 id="valor">0</h1>
+<script>
+const cambiar=()=>{
+document.querySelector("#valor").innerHTML =document.querySelector("#v").value;
+}
+</script>
+  </body>
+</html>
